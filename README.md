@@ -10,3 +10,4 @@ What you need is
 ### Installation
 Copy ```sh PHPMailer ``` folder in the root folder of your project <br /> 
 Edit ```sh constant.php ``` whit your credentials
+Call ```sh sendemail ``` from your code
