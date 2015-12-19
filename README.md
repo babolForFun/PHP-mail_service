@@ -11,3 +11,6 @@ What you need is
 Copy ``` PHPMailer folder``` and ``` constant.php ``` in the root folder of your project <br /> 
 Edit ``` constant.php ``` whit your credentials <br /> 
 Call ``` sendemail ``` from your code
+
+
+Done!
