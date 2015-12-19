@@ -8,7 +8,7 @@
     * @license GPLv2  http://www.opensource.org/licenses/gpl-2.0.php
     */
 
-    include_once("constant.php");
+    include_once($_SERVER['DOCUMENT_ROOT']."constant.php");
     include_once($_SERVER['DOCUMENT_ROOT'].'PHPMailer/PHPMailerAutoload.php');
 
     /**
